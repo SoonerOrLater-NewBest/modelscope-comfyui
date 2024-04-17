@@ -4,4 +4,8 @@
 
 ## 启动
 
+```bash
+git clone https://github.com/SoonerOrLater-NewBest/modelscope-comfyui.git
+```
+
 - 打开魔搭的 Notebook 后，根据选择的模式选择 cpu：comfyui_cpu_start.ipynb 还是 gpu：comfyui_cpu_start.ipynb 一键部署启动
