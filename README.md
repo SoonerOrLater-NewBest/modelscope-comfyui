@@ -1,12 +1,12 @@
 # modelscope-comfyui
 
-- 这个项目主要记录在[魔搭社区](https://www.modelscope.cn/)`{:target="\_blank"}`使用 comfyui 时，一键部署环境，下载资源的一些工作流启动文件
+- 这个项目主要记录在[魔搭社区](https://www.modelscope.cn/)使用 comfyui 时，一键部署环境，下载资源的一些工作流启动文件
 
 - 也欢迎有能力的小伙伴给我分享点好玩的工作流一键启动文件
 
 ## 视频教程
 
-- [一键启动文生图，图生视频](https://www.bilibili.com/video/BV1YCLGeBEpo/?vd_source=25538f327d9fbb263586d70d99356b17)`{:target="\_blank"}`
+- [一键启动文生图，图生视频](https://www.bilibili.com/video/BV1YCLGeBEpo/?vd_source=25538f327d9fbb263586d70d99356b17)
 
 ## 启动
 
