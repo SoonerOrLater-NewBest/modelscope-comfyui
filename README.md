@@ -1,6 +1,6 @@
 # modelscope-comfyui
 
-- 这个项目主要记录在[魔搭社区](https://www.modelscope.cn/)使用 comfyui 时，一键部署环境，下载资源的一些工作流启动文件
+- 这个[项目](https://github.com/SoonerOrLater-NewBest/modelscope-comfyui)主要记录在[魔搭社区](https://www.modelscope.cn/)使用 comfyui 时，一键部署环境，下载资源的一些工作流启动文件
 
 - 也欢迎有能力的小伙伴给我分享点好玩的工作流一键启动文件
 
